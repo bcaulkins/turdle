@@ -1,0 +1,3 @@
+Account for multiple letters
+
+no duplicate words
